@@ -2,12 +2,12 @@
 
 My awesome module.
 
-[![NPM Badge](https://nodei.co/npm/the-module.png)](https://npmjs.com/package/the-module)
-
 ## Install
 
-```sh
-npm install the-module
+Using [gs-require](https://github.com/Richienb/gs-require):
+
+```js
+const theModule = require("the-module");
 ```
 
 ## Usage
