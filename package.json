@@ -7,15 +7,13 @@
 	"license": "MIT",
 	"main": "index.js",
 	"files": [
-		"index.js",
-		"index.d.ts"
+		"index.js"
 	],
 	"engines": {
 		"node": ">=10"
 	},
 	"scripts": {
-		"lint": "xo",
-		"test": "xo && ava"
+		"test": "xo"
 	},
 	"keywords": [],
 	"dependencies": {},
